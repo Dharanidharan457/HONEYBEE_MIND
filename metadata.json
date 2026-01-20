@@ -1,0 +1,7 @@
+{
+  "name": "BeeGuard AI - Smart Hive Monitor",
+  "description": "A comprehensive dashboard for monitoring honeybee hive health using real-time sensor data, AI analysis, and an interactive bee chatbot.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
